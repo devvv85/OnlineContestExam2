@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "779159184142",
+    "project_id": "tejas-31250",
+    "storage_bucket": "tejas-31250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779159184142:android:f7ce358f69faa73435ad5f",
+        "android_client_info": {
+          "package_name": "online.exam.onlineexamcontest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779159184142-5mfab33vt8rv8dr9njpm5b8c6g4vud2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.exam.onlineexamcontest",
+            "certificate_hash": "d71ef066cdd6800a6ed0d3d4602114fa562de1f8"
+          }
+        },
+        {
+          "client_id": "779159184142-i1bbenb8tdt6njqq2h59eq9d3pbm07d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.exam.onlineexamcontest",
+            "certificate_hash": "5565e3e2708d4ddfc701c7d2fef4b3dc3ada66d6"
+          }
+        },
+        {
+          "client_id": "779159184142-qkte7uqh9fnsc5j1vld5mrffoqcj6a15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqra538H31iBQWj1GDloKIeMjPvbtpfhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779159184142-qkte7uqh9fnsc5j1vld5mrffoqcj6a15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
